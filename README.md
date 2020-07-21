@@ -6,6 +6,8 @@ Neste repositorio possui alguns exercicios práticos realizados de NOSQL durante
 
 -> BigTable
 
+-> Redis
+
 -> MongoDB
 
 -> Neo4j
